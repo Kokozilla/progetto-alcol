@@ -1,5 +1,33 @@
 # Getting Started with Create React App
 
+# 🍹 Alcolovers🍷
+
+Benvenuto nel progetto **Alcolovers**!  
+Un sito interattivo che mette alla prova le tue conoscenze sugli alcolici con quiz divertenti, test di personalità e un glossario completo sugli alcolici.
+
+## 🎯 Obiettivi del Progetto
+- Testare la conoscenza sugli alcolici con domande su produzione, provenienza e curiosità.
+- Offrire un test di personalità: *"Che tipo di alcolista sei?"*.
+- Fornire un glossario dettagliato per scoprire il significato di termini legati al mondo degli alcolici.
+- Includere un mini-gioco per rendere l’esperienza ancora più coinvolgente!
+
+## 🛠️ Tecnologie Utilizzate
+- **Frontend:** HTML, CSS, JavaScript (React)
+- **Librerie e strumenti:** React, GitHub, Vite
+- **Stile e UX:** CSS personalizzato con animazioni ed effetti
+
+## 📌 Funzionalità Principali
+- **Quiz sugli alcolici** con punteggio finale e possibilità di ritentare.
+- **Test di personalità** con risultato basato sulle risposte dell'utente.
+- **Glossario** con spiegazioni dettagliate di termini alcolici.
+- **Mini-gioco** (da definire) per rendere l'apprendimento più divertente.
+
+## 🚀 Come Avviare il Progetto
+1. **Clona la repository**  
+   ```bash
+   git clone https://github.com/tuo-username/nome-repository.git
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
