@@ -25,7 +25,7 @@ Un sito interattivo che mette alla prova le tue conoscenze sugli alcolici con qu
 ## 🚀 Come Avviare il Progetto
 1. **Clona la repository**  
    ```bash
-   git clone https://github.com/tuo-username/nome-repository.git
+   git clone https://github.com/Kokozilla/progetto-alcol.git
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
